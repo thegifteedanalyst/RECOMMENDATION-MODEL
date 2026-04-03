@@ -3,12 +3,9 @@ import pickle
 import pandas as pd
 import os
 
-# ----------------------------
-# INIT APP
-# ----------------------------
 app = FastAPI(title="Hybrid Recommendation API")
 
-MODEL_PATH = "models/recommender_model.pkl"
+MODEL_PATH = "recomm_model.pkl"
 
 # ----------------------------
 # LOAD MODEL
