@@ -67,10 +67,10 @@ Frontend UI deployed on: Streamlit Community Cloud
 
 This system can help businesses:
 
-Increase Average Order Value (AOV)
-Improve customer retention
-Boost product visibility
-Enable personalized shopping experience
+1.Increase Average Order Value (AOV)
+2.Improve customer retention
+3.Boost product visibility
+4.Enable personalized shopping experience
 
 ## API URL
 👉Click or copy the url to the recommendation API:  https://recommendation-model-wvo5.onrender.com/docs
