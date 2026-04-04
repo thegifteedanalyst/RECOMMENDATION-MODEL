@@ -72,6 +72,9 @@ Improve customer retention
 Boost product visibility
 Enable personalized shopping experience
 
+## API URL
+👉Click or copy the url to the recommendation API:  https://recommendation-model-wvo5.onrender.com/docs
+
 
 
 
