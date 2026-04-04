@@ -1,6 +1,6 @@
 # HYBRID RECOMMENDATION SYSTEM FOR E-COMMERCE
 
-Project Overview
+## Project Overview
 
 This project presents a full-stack machine learning solution designed to improve product discovery and increase revenue for an e-commerce business.
 
